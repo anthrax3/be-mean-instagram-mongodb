@@ -1,28 +1,5 @@
 ## MongoDb - Aula 01
 
-Nessa primeira aula veremos um pouco sobre a teoria do MongoDb e sobre os bancos de dados NoSQL e o que essa sigla que tanto vemos significa.
-
-## Slides
-
-[https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit?usp=sharing](https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit?usp=sharing)
-
-## Teoria
-
-### NoSQL
-
-Falarei um pouco sobre a teoria de [NoSQL](./../../mongodb/theory-nosql.md).
-
-### MongoDb
-
-Entrando na teoria do [MongoDB](./../../mongodb/theory-mongodb.md)
-
-Abrangendo:
-
-- [Instalação](./../../mongodb/installation.md)
-- [Cliente](./../../mongodb-client.md)
-  - [Import](./../../mongodb/export_import.md)
-  - [Export](./../../mongodb/export_import.md)
-
 #### Exercício
 
 Como ainda não temos muitos dados para usarmos o `mongoexport` iremos trabalhar apenas com o `mongoimport` nesse momento. Para fazermos isso primeiramente baixe [esse JSON](https://raw.githubusercontent.com/Webschool-io/be-mean-instagram/master/apostila/mongodb/data/restaurantes.json).
@@ -76,10 +53,3 @@ autor: SEU NOME
     ```
 
 ```
-
-## Explicar como funcionarão os exercícios e as aulas subsequentes.
-
-## Links
-
-- NoSQL - Arquitetura híbrida para uma rede social: [http://nomadev.com.br/nosql-arquitetura-h%C3%ADbrida-para-uma-rede-social/](http://nomadev.com.br/nosql-arquitetura-h%C3%ADbrida-para-uma-rede-social/)
-- MongoDb - Como mudar seu jeito relacional de pensar - Parte 1: [http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
