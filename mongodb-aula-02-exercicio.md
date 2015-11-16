@@ -19,6 +19,7 @@ local              0.078GB
 ## Listagem das coleções (passo 3)
 ```
 > show collections
+>
 ```
 
 ## Cadastro dos pokemons (passo 4)
