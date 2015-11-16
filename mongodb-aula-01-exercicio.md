@@ -16,5 +16,4 @@ connected to: 127.0.0.1
 ```
 > db.restaurantes.find({}).count()
 25359
-> 
 ```
